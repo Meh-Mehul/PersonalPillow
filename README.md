@@ -1,5 +1,5 @@
 # PersonalPillow
-An image manipulation library in C++. Contains most of the popular filters for image manipulation.
+An image manipulation library in C++. Contains most of the popular filters for image manipulation. It uses the ```stb image``` libraries for loading and writing images.
 
 Sample images and their ouputs to various functions have been placed in ```imgs``` directory.
 
