@@ -22,5 +22,7 @@ I planned on making a ```imshow``` function like the one in ```cv2```, but since
 1. uncomment the function in ```Image.cpp``` file (its at around line 1184)
 2. include graphics.h in header file, make sure u have included it in your system too.
 3. in the makefile, add the ```CFLAGS2``` after the executing line (line 10).
+
+
 (i might make a new one but with the ```imgui``` library.)
 I may warn you, it not that great, but rest of the functions might work just fine.
